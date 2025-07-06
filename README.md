@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Pratyukt!
 
-<!--
-**pratyukt/pratyukt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer learning web dev, Java, and more 🚀
 
-Here are some ideas to get you started:
+- 🌱 Currently working on: Excelling Skills
+- 🔭 Exploring: Open Source Projects
+- 💬 Ask me about: Java, DSA, MERN
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+## 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratyukt&show_icons=true&theme=tokyonight)
+
+<!-- Add more sections like trophies, top languages, etc. -->
